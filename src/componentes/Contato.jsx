@@ -1,15 +1,5 @@
 import {
-    Flex,
-    Box,
-    Center,
-    FormControl,
-    Input,
-    FormLabel,
-    HStack,
-    RadioGroup,
-    Radio,
-    Button,
-  } from "@chakra-ui/react";
+    Flex, Box, Center, FormControl, Input, FormLabel, HStack, RadioGroup, Radio, Button,} from "@chakra-ui/react";
   
   export function Contato() {
     return (
